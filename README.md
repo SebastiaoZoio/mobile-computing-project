@@ -1,16 +1,16 @@
 # mobile-computing-project
 Project for Mobile and Ubiquitous Computing course
 
-### ConversationalIST
+## ConversationalIST
 
 Android Chat app.
 
-## Functionalities
+### Functionalities
 - Public chatrooms
 - Private chatrooms. Join through invitation(link).
 - Geo-fenced chatrooms. Only accessible/joinable if in a given location (coordinates and radius).
 
-## Feautures
+### Feautures
 
 - Create Unique Username
 - Create Unique Username
@@ -32,11 +32,11 @@ Android Chat app.
 - Cache Pre-loading
 
 
-## Mobile Interface Design
+### Mobile Interface Design
 
 ![architecture](img/conversationalist_architecture.png)
 
-## Implementation
+### Implementation
 
 - **Programming language and platform used to implement the server:** Java, Python(Flask) and sqlite3.
 - **Additional external libraries used in the project:** Google Mobile Services, flask_sockets
