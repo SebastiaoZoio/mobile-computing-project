@@ -34,20 +34,14 @@ Android Chat app.
 
 ## Mobile Interface Design
 
-![Architecture](img/conversationalist_architecture/png)
+!(img/conversationalist_architecture/png)
 
 ## Implementation
 
-- Programming language and platform used to implement the server
-        Java, Python(Flask) and sqlite3.
-- Additional external libraries used in the project
-      Google Mobile Services, flask_sockets
-- Android components (e.g., services, activities); how they communicate with each other; how they share global state
-           All activities share a common variable which is the user, and communicate through intents and their extras.
-- Threads that exist in the mobile application and their function
-      All communications with the server are made through AsyncTasks and everytime a message is received on the client side websocket, the client handles it, by creating a notification or displaying new messages.
-- How communications are handled
-          The server (flask) and the app communicate through a rest API and websockets.
-- How state is maintained on the mobile device and server
-          The state of the app is maintained because all of the data is consistent data is stored in a sqlite3 database.
+- Programming language and platform used to implement the server: Java, Python(Flask) and sqlite3.
+- Additional external libraries used in the project: Google Mobile Services, flask_sockets
+- Android components (e.g., services, activities); how they communicate with each other; how they share global state: All activities share a common variable which is the user, and communicate through intents and their extras.
+- Threads that exist in the mobile application and their function: All communications with the server are made through AsyncTasks and everytime a message is received on the client side websocket, the client handles it, by creating a notification or displaying new messages.
+- How communications are handled: The server (flask) and the app communicate through a rest API and websockets.
+- How state is maintained on the mobile device and server: The state of the app is maintained because all of the data is consistent data is stored in a sqlite3 database.
 
