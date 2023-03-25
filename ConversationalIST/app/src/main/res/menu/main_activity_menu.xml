@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/new_chat"
+        android:title="@string/new_chat">
+    </item>
+
+    <item
+        android:id="@+id/join_chat"
+        android:title="@string/join_chat">
+    </item>
+    <item
+        android:id="@+id/dark_mode"
+        android:title="Dark Mode"
+        android:icon="@drawable/ic_baseline_bedtime_24"
+        app:showAsAction="always"
+        />
+</menu>

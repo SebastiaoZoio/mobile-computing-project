@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_bedtime_24.xml" value="0.2375" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_add_24.xml" value="0.2385" />
+        <entry key="app/src/main/res/drawable/ic_outline_poll_24.xml" value="0.305" />
+        <entry key="app/src/main/res/drawable/roundedbutton.xml" value="0.2975" />
+        <entry key="app/src/main/res/layout/activity_geofence.xml" value="0.33229166666666665" />
+        <entry key="app/src/main/res/layout/activity_poll.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/activity_send_location.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/chat_layout.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/geo_fenced_chat_activity.xml" value="0.33229166666666665" />
+        <entry key="app/src/main/res/layout/me_map_perspective_layout.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/me_perpective_image_layout.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/layout/me_perspective_layout.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/layout/me_perspective_poll_layout.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/new_chat_layout.xml" value="0.18385416666666668" />
+        <entry key="app/src/main/res/layout/other_perspective_image_layout.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/other_perspective_map_layout.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/other_perspective_poll_layout.xml" value="0.26666666666666666" />
+        <entry key="app/src/main/res/menu/main_activity_menu.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
