@@ -45,3 +45,13 @@ Android Chat app.
 - **How communications are handled:** The server (flask) and the app communicate through a rest API and websockets.
 - **How state is maintained on the mobile device and server:** The state of the app is maintained because all of the data is consistent data is stored in a sqlite3 database.
 
+
+### App screenshots
+
+![login](img/loginConversationalIST.jpg)
+
+![chatList](img/chatListConversationalIST.jpg)
+
+![chat](img/chatConversationalIST.jpg)
+
+![map](img/mapaConversationalIST.jpg)
